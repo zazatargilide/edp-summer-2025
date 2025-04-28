@@ -54,6 +54,13 @@ If you know ahead of time you won’t meet the attendance requirement (visa issu
 - We'll mainly use **GitHub CodeSpaces**.
 - For simpler exercises, we may use **Jupyter Notebooks**: [Try JupyterLab](https://jupyter.org/try-jupyter/lab/index.html).
 
+### How to change CodeSpaces language to English?
+* CTRL+SHIFT+P or Command+SHIFT+P
+* type Configure Display Language
+* type english
+* restart!
+* <img width="899" alt="Screenshot 2025-04-28 at 12 49 50" src="https://github.com/user-attachments/assets/7e217713-53bd-4796-9736-2b449e66cc54" />
+
 ---
 
 ### ❔ Can I use ChatGPT (or other LLMs)?
