@@ -11,7 +11,7 @@
 * make sure it has the same name (edp-summer-2025)
   
 ### 3. You must join the Slack Workspace 
-* click on this link https://join.slack.com/t/edp-summer25/shared_invite/zt-34ivx6qhv-s7Vj5BY6aZ3cx_11BW3e_A
+* click on this [link](https://join.slack.com/t/edp-summer25/shared_invite/zt-34ivx6qhv-s7Vj5BY6aZ3cx_11BW3e_A) 
 * create your account on Slack
 * you must add your real photo
 * you must use your full name + index number
@@ -32,6 +32,12 @@ If you know that for some reason you would not be able to attend at least 80% cl
 ### What code editor should I use?
 * We use CodeSpaces on GitHub
 * For some simpler tasks we may use Jupyter Notebooks [Link](https://jupyter.org/try-jupyter/lab/index.html)
+
+### Can I use ChatGPT (or other LLMs)?
+Yes. In many cases you may and even should use latest AI tools including ChatGPT.
+However AI is a double-edged sword – it can bring great benefits, but also serious risks.
+Use this wisely. Treat this tool as your sparing partner. Ask hard questions, ask it to test you etc.
+After all you would need to pass 1on1 exam with me. ChatGPT won't help you then.
   
 
   
