@@ -72,29 +72,16 @@ If you know ahead of time you won’t meet the attendance requirement (visa issu
 
 | Task | Status |
 |:-----|:------:|
-| Forked the repository | ✅ |
-| Joined the Slack workspace | ✅ |
-| Uploaded real photo to Slack | ✅ |
-| Set correct Slack display name | ✅ |
+| Forked the repository | ⬜ |
+| Joined the Slack workspace | ⬜ |
+| Uploaded real photo to Slack | ⬜ |
+| Set correct Slack display name | ⬜ |
 | Attended 80% of classes | ⬜ |
 | Passed one-on-one exam | ⬜ |
 | Bonus points for activity | ⬜ |
 
 ---
 
-### Fancy Emoji Version
-
-| 🚀 Task | 📈 Status |
-|:--------|:--------:|
-| 🔗 Forked repository | ✅ |
-| 💬 Joined Slack workspace | ✅ |
-| 🖼️ Uploaded real photo to Slack | ✅ |
-| 🧑‍💻 Set correct Slack display name | ✅ |
-| 🎓 Attended 80% of classes | ⬜ |
-| 🧑‍🧬 Passed one-on-one exam | ⬜ |
-| ✨ Bonus points for class activity | ⬜ |
-
----
 
 Good luck and let's make this summer count! 🌟
 
