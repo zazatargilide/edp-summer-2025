@@ -37,7 +37,7 @@ You must have your own **GitHub** account.
 To pass the course, you must:
 - Attend at least **80%** of classes.
 - Pass a **one-on-one exam**.
-- Be active during classes to earn **bonus points** and possibly improve your final grade.
+- Be active during classes to earn **extra points** 🏆 and possibly improve your final grade.
 
 ---
 
